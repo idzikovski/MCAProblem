@@ -1,0 +1,7 @@
+C:\Projects\MCAProblem\MCAProblem\bin\Debug\MCAProblem.exe.config
+C:\Projects\MCAProblem\MCAProblem\bin\Debug\MCAProblem.exe
+C:\Projects\MCAProblem\MCAProblem\bin\Debug\MCAProblem.pdb
+C:\Projects\MCAProblem\MCAProblem\obj\Debug\MCAProblem.csprojAssemblyReference.cache
+C:\Projects\MCAProblem\MCAProblem\obj\Debug\MCAProblem.csproj.CoreCompileInputs.cache
+C:\Projects\MCAProblem\MCAProblem\obj\Debug\MCAProblem.exe
+C:\Projects\MCAProblem\MCAProblem\obj\Debug\MCAProblem.pdb
